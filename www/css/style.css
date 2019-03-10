@@ -1,0 +1,73 @@
+.page-content{
+    background-color: #cccccc;
+}
+
+.title{
+    text-align: center;
+    margin-bottom: 0;
+}
+.title h1{
+    font-family: 'Josefin Slab', serif;
+    font-size: 48px;
+    margin-top: 5%;
+    margin-bottom: 0;
+}
+.title h3{
+    font-family: 'Allura', monospace;
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0px;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Josefin Slab', serif;
+}
+
+h4{
+    text-align: center;
+    font-family: 'Allura', monospace;
+    font-size: 18px;    
+}
+
+#takeVid{
+    font-family: "Josefin Slab", serif;
+    width: 50%;
+    margin: auto;
+    padding: 0;
+}
+
+.body{
+    margin-top: 20%;
+}
+
+.soundQueue{
+    margin-bottom: 10%;
+}
+
+.vidRecord{
+    margin-top: 20%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#vidList{
+    margin: auto;
+    align-content: center;
+}
