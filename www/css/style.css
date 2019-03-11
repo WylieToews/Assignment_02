@@ -5,6 +5,10 @@
 .title{
     text-align: center;
     margin-bottom: 0;
+    background-color: #aaaaaa;
+    border-radius: 10px;
+    box-shadow: 2px 11px 26px -3px rgba(0,0,0,0.75);
+    
 }
 .title h1{
     font-family: 'Josefin Slab', serif;
@@ -50,6 +54,11 @@ h4{
     margin-top: 20%;
 }
 
+#takeVid{
+    background-color: #8c8c8c;
+    box-shadow: 0px 4px 15px 0px rgba(0,0,0,0.75);
+    color: black;
+}
 
 
 
