@@ -60,7 +60,15 @@ h4{
     color: black;
 }
 
+#vidList{
+    margin: auto;
+    filter: grayscale(1);
+}
 
+audio{
+    margin: auto;
+    display: table;
+}
 
 
 
