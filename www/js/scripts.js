@@ -16,6 +16,27 @@ var mainView = app.views.create('.view-main');
 document.addEventListener("deviceready", init, false);
 //init(); // use for testing on chrome
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 function init() {
     console.log("Ready to Roll - Camera")
 
@@ -48,3 +69,4 @@ function init() {
     }
 
 }
+
