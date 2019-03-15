@@ -5,6 +5,7 @@
 .title{
     text-align: center;
     margin-bottom: 0;
+    padding-bottom: 7px;;
     background-color: #aaaaaa;
     border-radius: 10px;
     box-shadow: 2px 11px 26px -3px rgba(0,0,0,0.75);
@@ -13,15 +14,15 @@
 .title h1{
     font-family: 'Josefin Slab', serif;
     font-size: 48px;
-    margin-top: 5%;
+    margin-top: 0;
     margin-bottom: 0;
 }
 .title h3{
     font-family: 'Allura', monospace;
-    font-size: 18px;
-    margin-top: 0;
-    margin-bottom: 0;
-    padding-top: 0px;
+    font-size: 20px;
+    position: absolute;
+    width: 100%;
+    top: 3.5%;
 }
 
 h2{
@@ -43,7 +44,7 @@ h4{
 }
 
 .body{
-    margin-top: 20%;
+    margin-top: 10%;
 }
 
 .soundQueue{
@@ -95,4 +96,7 @@ video controls{
 #vidList{
     margin: auto;
     align-content: center;
+}
+#vidList h2{
+    margin-top: 10%;
 }
